@@ -79,7 +79,7 @@
         {
             "owner": "BTSFAbAx7yuxt725qSZvfwWqkdCwp9ZnUama",
             "asset_symbol": "BTS",
-            "amount": "1000000000000000"
+            "amount": "100000000000000"
         }
     ],
     "initial_committee_candidates": [
@@ -453,5 +453,5 @@
         }
     ],
     "initial_worker_candidates": [],
-    "max_core_supply": "200000000000000"
+    "max_core_supply": "100000000000000"
 }
