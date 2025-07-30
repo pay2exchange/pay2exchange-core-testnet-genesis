@@ -1,7 +1,7 @@
 {
     "immutable_parameters": {
         "min_committee_member_count": 11,
-        "min_witness_count": 11,
+        "min_witness_count": 1,
         "num_special_accounts": 100,
         "num_special_assets": 100
     },
@@ -514,7 +514,7 @@
         "witness_pay_per_block": 150000,
         "worker_budget_per_day": "50000000000"
     },
-    "initial_timestamp": "2025-07-29T05:05:05",
+    "initial_timestamp": "2025-07-30T19:00:00",
     "initial_vesting_balances": [],
     "initial_witness_candidates": [
         {
