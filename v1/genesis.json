@@ -427,7 +427,7 @@
         "witness_pay_per_block": 150000,
         "worker_budget_per_day": "50000000000"
     },
-    "initial_timestamp": "2025-07-31T10:05:00",
+    "initial_timestamp": "2025-07-31T16:50:00",
     "initial_vesting_balances": [],
     "initial_witness_candidates": [
         {
