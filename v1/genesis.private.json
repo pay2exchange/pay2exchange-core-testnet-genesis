@@ -1,7 +1,7 @@
 {
     "immutable_parameters": {
         "min_committee_member_count": 11,
-        "min_witness_count": 1,
+        "min_witness_count": 7,
         "num_special_accounts": 100,
         "num_special_assets": 100
     },
@@ -181,15 +181,68 @@
                 "wif_priv_key": "5J2wBEvvxYPVMmgS48Xkqtqn7Jp1rR9eYc5Y2gtBQJgP2Doddqs",
                 "pub_key": "BTS7BC6NjkWE6RzJBxrmpG7QDrHLCA9Y8jReYeczqDM6KY9PfLFHd"
             }
+        },
+        {
+            "active_key": "BTS6SfEiHmJGpSVitgRQjCfekW3P9DvSp4Ym4TrBopVUGcTSP7fDX",
+            "active_key_full": {
+                "brain_priv_key": "SPINA GOODS CAB LASSOER COTTER SHIPPER THRONAL UNACTED WOOZY BANDY AK CANAL RAYA RUFFLED MUSROL UNHONED",
+                "wif_priv_key": "5JfZCCPhYnTYtsstfAtHy5CE68uKFA65YS7QfWGhK69k52pXA8W",
+                "pub_key": "BTS6SfEiHmJGpSVitgRQjCfekW3P9DvSp4Ym4TrBopVUGcTSP7fDX"
+            },
+            "is_lifetime_member": true,
+            "name": "alpha",
+            "owner_key": "BTS5CN6itRbu4ULhY8XMy5qfa2vXkYaBBmeX7mLQxJgWsET4RNhff",
+            "owner_key_full": {
+                "brain_priv_key": "OUTCRY MUSCADE IDLER CLEW BEWITH PIETISM MIRD GIGERIA OCHERY LUCRIFY SAVING ENLEAF TABAXIR STERICS RELIANT SHIELD",
+                "wif_priv_key": "5KKVbmei7CMaWni13cTAGKof1JgTecCmiRFwmsDkU3JhhDAu2pF",
+                "pub_key": "BTS5CN6itRbu4ULhY8XMy5qfa2vXkYaBBmeX7mLQxJgWsET4RNhff"
+            }
+        },
+        {
+            "active_key": "BTS5kYQNRWFzdZqc4XsRVKnwFyddGn2CKvwPTMKeC667vF8p7nGRU",
+            "active_key_full": {
+                "brain_priv_key": "ARGUTE LAGAN CHEER PILIKAI SIBLING JASMINE YEGGMAN DEWAN EXCRETA VAGUE DIARIST PUTAMEN TUMBLER TRAMMEL CREAGHT VINTAGE",
+                "wif_priv_key": "5JT89HxsGTYekUsAJDjgFcuJ7igQUWDsBKk4FchP113sNr5VMEP",
+                "pub_key": "BTS5kYQNRWFzdZqc4XsRVKnwFyddGn2CKvwPTMKeC667vF8p7nGRU"
+            },
+            "is_lifetime_member": true,
+            "name": "beta",
+            "owner_key": "BTS5bRsiJHfEZzYhCUYp7D4nkp5s55byT9C3LrPXH3UzhZaGbj6yo",
+            "owner_key_full": {
+                "brain_priv_key": "DREAD JABIA MONADIC SYNDOC ROOFLET PRINCOX CHYMOUS REFLY PIMPLOE CAMERAL BEYDOM TOVAR PANNAGE BASTITE UNPILE PALOLO",
+                "wif_priv_key": "5JPXqt22ykgnxiFEbkB14wz2gvHE874MNy6XbEXMju34VUVB9YJ",
+                "pub_key": "BTS5bRsiJHfEZzYhCUYp7D4nkp5s55byT9C3LrPXH3UzhZaGbj6yo"
+            }
+        },
+        {
+            "active_key": "BTS6vzGSoC1i9oAZksZmUXHNjRFKZAG4WuJcqwTUP9Zc55dX3azon",
+            "active_key_full": {
+                "brain_priv_key": "ARGYRIC SIL AUK HURROO JIBSTAY STRUT CROWER REUNION KITTUL BELIEVE BOARD ULMIN SUADE KOKOON PRODIGY INGLE",
+                "wif_priv_key": "5Kef4ud3YrqKwVPCDayieDj8ESqWD1w5k6VZuvaJ8wmV4GiGwu2",
+                "pub_key": "BTS6vzGSoC1i9oAZksZmUXHNjRFKZAG4WuJcqwTUP9Zc55dX3azon"
+            },
+            "is_lifetime_member": true,
+            "name": "gamma",
+            "owner_key": "BTS52chAeXT1vBS65sNstpKaUPsg7dRLPFaQnWZQBRUhnWKkuNe7g",
+            "owner_key_full": {
+                "brain_priv_key": "TRIFLER DRAWING PUDDY WOMBED GOZZARD ENOUGH CLIVIS RESEW SLITTER VOICER PEPPY PUISNE PARDED ACCINGE TRIACID KANAP",
+                "wif_priv_key": "5JBv3kamQYKSBSg6oDwNCiageB5fsBBfuKtUt2opeSydFjv9skK",
+                "pub_key": "BTS52chAeXT1vBS65sNstpKaUPsg7dRLPFaQnWZQBRUhnWKkuNe7g"
+            }
         }
     ],
     "initial_active_witnesses": 11,
     "initial_assets": [],
     "initial_balances": [
         {
-            "owner": "BTSFAbAx7yuxt725qSZvfwWqkdCwp9ZnUama",
+            "owner": "BTSMobKi3U86fFZDnv3tfAqG2X9FT5MV47Cj",
             "asset_symbol": "BTS",
-            "amount": "100000000000000"
+            "amount": "25000000000000"
+        },
+        {
+            "owner": "BTSHKkBPS69t76KN7Myidv6iCxUnNCK5cbhe",
+            "asset_symbol": "BTS",
+            "amount": "25000000000000"
         }
     ],
     "initial_committee_candidates": [
