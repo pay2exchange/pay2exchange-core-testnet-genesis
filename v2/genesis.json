@@ -1,5 +1,5 @@
 {
-  "initial_timestamp": "2025-08-13T17:42:50",
+  "initial_timestamp": "2025-08-13T17:55:00",
   "initial_balances": [
     {
       "owner": "BTS5uTL2vUhKT8bhS4BsnLEaVf6mPcSoGa3o",
@@ -348,7 +348,7 @@
     "worker_budget_per_day": "50000000"
   },
   "initial_worker_candidates": [],
-  "initial_active_witnesses": 4,
+  "initial_active_witnesses": 3,
   "initial_assets": [],
   "initial_witness_candidates": [
     {
@@ -393,7 +393,7 @@
   "immutable_parameters": {
     "num_special_accounts": 100,
     "min_committee_member_count": 1,
-    "min_witness_count": 1,
+    "min_witness_count": 3,
     "num_special_assets": 100
   }
 }
